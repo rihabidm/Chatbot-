@@ -4,7 +4,7 @@ from chatbot import Chatbot
 app = Flask(__name__)
 
 # Configuration
-API_KEY = "AIzaSyB02GetuGs3ZCsVxJy57EcTpaDKMsh6hAg"
+API_KEY = ""
 MODEL_NAME = "gemini-1.5-flash"
 
 # Initialisation du chatbot
